@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=whqngml%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=whqngml's%20Github!&fontSize=60&rotate=0.5" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -43,11 +43,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=whqngml&show_icons=true">
 
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
 
 
